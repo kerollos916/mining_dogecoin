@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "911825588125",
+    "firebase_url": "https://mining-dogecoin.firebaseio.com",
+    "project_id": "mining-dogecoin",
+    "storage_bucket": "mining-dogecoin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911825588125:android:2ffb503b67fa632b152974",
+        "android_client_info": {
+          "package_name": "com.example.miningdogecoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911825588125-drhjos0tghfife4mrkhrbtdqrn8q5cf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.miningdogecoin",
+            "certificate_hash": "dfab0cca2d5bec24a8bd778f524e892149ae1177"
+          }
+        },
+        {
+          "client_id": "911825588125-o2t82ddf9eb28v3noc3cb3cd9sdtpkoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoC3cSOhqOLkhA8a7pK-u5l83VdVpsSoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911825588125-o2t82ddf9eb28v3noc3cb3cd9sdtpkoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
